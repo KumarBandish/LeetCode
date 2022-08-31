@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		182241E428BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182241E328BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift */; };
 		80187C6427BB7CDE00274301 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80187C6327BB7CDE00274301 /* AppDelegate.swift */; };
 		80187C6627BB7CDE00274301 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80187C6527BB7CDE00274301 /* SceneDelegate.swift */; };
 		80187C6827BB7CDE00274301 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80187C6727BB7CDE00274301 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		182241E328BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2114. Maximum Number of Words.swift"; sourceTree = "<group>"; };
 		80187C6027BB7CDE00274301 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80187C6327BB7CDE00274301 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80187C6527BB7CDE00274301 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +39,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		182241E128BFDC8A00CD0F36 /* String */ = {
+			isa = PBXGroup;
+			children = (
+				182241E228BFDC9200CD0F36 /* Easy */,
+			);
+			path = String;
+			sourceTree = "<group>";
+		};
+		182241E228BFDC9200CD0F36 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				182241E328BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
 		80187C5727BB7CDE00274301 = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +74,7 @@
 		80187C6227BB7CDE00274301 /* Leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				182241E128BFDC8A00CD0F36 /* String */,
 				80187C6327BB7CDE00274301 /* AppDelegate.swift */,
 				80187C6527BB7CDE00274301 /* SceneDelegate.swift */,
 				80187C6727BB7CDE00274301 /* ViewController.swift */,
@@ -140,6 +159,7 @@
 				80187C6827BB7CDE00274301 /* ViewController.swift in Sources */,
 				80187C6427BB7CDE00274301 /* AppDelegate.swift in Sources */,
 				80187C6627BB7CDE00274301 /* SceneDelegate.swift in Sources */,
+				182241E428BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
