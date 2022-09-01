@@ -12,8 +12,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        getMostWordsFound()
-        getNumJewelsInStones()
+//        getMostWordsFound()
+//        getNumJewelsInStones()
+        getShuffleString()
     }
     
     private func getMostWordsFound() {
@@ -31,5 +32,11 @@ class ViewController: UIViewController {
         print("numJewelsInStones2--", val1)
     }
 
+    
+    private func getShuffleString() {
+        let s = "codeleet", indices = [4,5,6,7,0,2,1,3]
+        print("shuffleString--", shuffleString(s, indices))
+        print("restoreString--", restoreString(s, indices))
+    }
 }
 
