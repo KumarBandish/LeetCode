@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
 //        getMostWordsFound()
 //        getNumJewelsInStones()
-        getShuffleString()
+        //getShuffleString()
+        checkIsAnagram()
     }
     
     private func getMostWordsFound() {
@@ -37,6 +38,12 @@ class ViewController: UIViewController {
         let s = "codeleet", indices = [4,5,6,7,0,2,1,3]
         print("shuffleString--", shuffleString(s, indices))
         print("restoreString--", restoreString(s, indices))
+    }
+    
+    private func checkIsAnagram() {
+        let s = "anagram", t = "nagaram"
+        print("isAnagram--", isAnagram(s, t))
+       
     }
 }
 
