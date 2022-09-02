@@ -10,6 +10,7 @@
 		182241E428BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182241E328BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift */; };
 		182241E928BFE0B800CD0F36 /* 771. Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182241E828BFE0B800CD0F36 /* 771. Jewels and Stones.swift */; };
 		182241EC28C1124E00CD0F36 /* 1528. Shuffle String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182241EB28C1124D00CD0F36 /* 1528. Shuffle String.swift */; };
+		182241EF28C1173A00CD0F36 /* 242. Valid Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182241EE28C1173A00CD0F36 /* 242. Valid Anagram.swift */; };
 		80187C6427BB7CDE00274301 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80187C6327BB7CDE00274301 /* AppDelegate.swift */; };
 		80187C6627BB7CDE00274301 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80187C6527BB7CDE00274301 /* SceneDelegate.swift */; };
 		80187C6827BB7CDE00274301 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80187C6727BB7CDE00274301 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 		182241E328BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2114. Maximum Number of Words.swift"; sourceTree = "<group>"; };
 		182241E828BFE0B800CD0F36 /* 771. Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones.swift"; sourceTree = "<group>"; };
 		182241EB28C1124D00CD0F36 /* 1528. Shuffle String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1528. Shuffle String.swift"; sourceTree = "<group>"; };
+		182241EE28C1173A00CD0F36 /* 242. Valid Anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. Valid Anagram.swift"; sourceTree = "<group>"; };
 		80187C6027BB7CDE00274301 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80187C6327BB7CDE00274301 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80187C6527BB7CDE00274301 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				182241E328BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift */,
 				182241E828BFE0B800CD0F36 /* 771. Jewels and Stones.swift */,
 				182241EB28C1124D00CD0F36 /* 1528. Shuffle String.swift */,
+				182241EE28C1173A00CD0F36 /* 242. Valid Anagram.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				80187C6427BB7CDE00274301 /* AppDelegate.swift in Sources */,
 				182241E928BFE0B800CD0F36 /* 771. Jewels and Stones.swift in Sources */,
 				182241EC28C1124E00CD0F36 /* 1528. Shuffle String.swift in Sources */,
+				182241EF28C1173A00CD0F36 /* 242. Valid Anagram.swift in Sources */,
 				80187C6627BB7CDE00274301 /* SceneDelegate.swift in Sources */,
 				182241E428BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift in Sources */,
 			);
