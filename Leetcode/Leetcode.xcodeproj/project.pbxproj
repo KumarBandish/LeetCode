@@ -20,6 +20,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		180B16F92ACDED8500DCF160 /* 5.Longest_Palindromic_Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 5.Longest_Palindromic_Substring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		180B16FB2ACDEDEC00DCF160 /* 7. Reverse_Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7. Reverse_Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		180B16FD2ACDEE0400DCF160 /* 15.3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 15.3Sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		180B16FF2ACDEE2A00DCF160 /* 16.3Sum_Closest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 16.3Sum_Closest.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		182241E328BFDCCF00CD0F36 /* 2114. Maximum Number of Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2114. Maximum Number of Words.swift"; sourceTree = "<group>"; };
 		182241E828BFE0B800CD0F36 /* 771. Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones.swift"; sourceTree = "<group>"; };
 		182241EB28C1124D00CD0F36 /* 1528. Shuffle String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1528. Shuffle String.swift"; sourceTree = "<group>"; };
@@ -38,6 +42,8 @@
 		188340DC2ACDE6C0000FD9CE /* 136.Single_Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 136.Single_Number.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		188340DE2ACDE703000FD9CE /* 448.Find_All_Numbers_Disappeared_In_An_Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 448.Find_All_Numbers_Disappeared_In_An_Array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		188340E02ACDE742000FD9CE /* 653.Two_Sum_IV_Input_IS_A_BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 653.Two_Sum_IV_Input_IS_A_BST.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340E42ACDEB75000FD9CE /* 2.Add_Two_Numbers_LinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.Add_Two_Numbers_LinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340E82ACDECEB000FD9CE /* 3.Longest_Substring_Without_Repeating_Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3.Longest_Substring_Without_Repeating_Characters.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		80187C6027BB7CDE00274301 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80187C6327BB7CDE00274301 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80187C6527BB7CDE00274301 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -92,6 +98,19 @@
 			path = Easy;
 			sourceTree = "<group>";
 		};
+		188340E62ACDEB95000FD9CE /* Medium_Level_Problem */ = {
+			isa = PBXGroup;
+			children = (
+				188340E42ACDEB75000FD9CE /* 2.Add_Two_Numbers_LinkedList.playground */,
+				188340E82ACDECEB000FD9CE /* 3.Longest_Substring_Without_Repeating_Characters.playground */,
+				180B16F92ACDED8500DCF160 /* 5.Longest_Palindromic_Substring.playground */,
+				180B16FB2ACDEDEC00DCF160 /* 7. Reverse_Integer.playground */,
+				180B16FD2ACDEE0400DCF160 /* 15.3Sum.playground */,
+				180B16FF2ACDEE2A00DCF160 /* 16.3Sum_Closest.playground */,
+			);
+			path = Medium_Level_Problem;
+			sourceTree = "<group>";
+		};
 		80187C5727BB7CDE00274301 = {
 			isa = PBXGroup;
 			children = (
@@ -111,6 +130,7 @@
 		80187C6227BB7CDE00274301 /* Leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				188340E62ACDEB95000FD9CE /* Medium_Level_Problem */,
 				182241E128BFDC8A00CD0F36 /* String */,
 				80187C6327BB7CDE00274301 /* AppDelegate.swift */,
 				80187C6527BB7CDE00274301 /* SceneDelegate.swift */,
