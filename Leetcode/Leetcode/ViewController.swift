@@ -15,6 +15,8 @@ class ViewController: UIViewController {
 //        getMostWordsFound()
 //        getNumJewelsInStones()
         //getShuffleString()
+        
+        
         checkIsAnagram()
     }
     

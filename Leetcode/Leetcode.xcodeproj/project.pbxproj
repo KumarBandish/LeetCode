@@ -24,6 +24,20 @@
 		182241E828BFE0B800CD0F36 /* 771. Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones.swift"; sourceTree = "<group>"; };
 		182241EB28C1124D00CD0F36 /* 1528. Shuffle String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1528. Shuffle String.swift"; sourceTree = "<group>"; };
 		182241EE28C1173A00CD0F36 /* 242. Valid Anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. Valid Anagram.swift"; sourceTree = "<group>"; };
+		188340C62ACDE262000FD9CE /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340C82ACDE338000FD9CE /* 9. Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340CA2ACDE394000FD9CE /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340CC2ACDE42E000FD9CE /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340CE2ACDE451000FD9CE /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340D02ACDE5BD000FD9CE /* 94.Binary Tree InOrder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94.Binary Tree InOrder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340D22ACDE5DD000FD9CE /* 101. Symmetric Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "101. Symmetric Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340D42ACDE611000FD9CE /* 104. Maximum_Depth_Of_Binary_Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum_Depth_Of_Binary_Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340D62ACDE66C000FD9CE /* 111.Minimum_Depth_Of_BinaryTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 111.Minimum_Depth_Of_BinaryTree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340D82ACDE686000FD9CE /* 112.Path_Sum_Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 112.Path_Sum_Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340DA2ACDE6A5000FD9CE /* 125.Valid_Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 125.Valid_Palindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340DC2ACDE6C0000FD9CE /* 136.Single_Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 136.Single_Number.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340DE2ACDE703000FD9CE /* 448.Find_All_Numbers_Disappeared_In_An_Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 448.Find_All_Numbers_Disappeared_In_An_Array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340E02ACDE742000FD9CE /* 653.Two_Sum_IV_Input_IS_A_BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 653.Two_Sum_IV_Input_IS_A_BST.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		80187C6027BB7CDE00274301 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80187C6327BB7CDE00274301 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80187C6527BB7CDE00274301 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +74,20 @@
 				182241E828BFE0B800CD0F36 /* 771. Jewels and Stones.swift */,
 				182241EB28C1124D00CD0F36 /* 1528. Shuffle String.swift */,
 				182241EE28C1173A00CD0F36 /* 242. Valid Anagram.swift */,
+				188340C62ACDE262000FD9CE /* 1. Two Sum.playground */,
+				188340C82ACDE338000FD9CE /* 9. Palindrome.playground */,
+				188340CA2ACDE394000FD9CE /* 20. Valid Parentheses.playground */,
+				188340CC2ACDE42E000FD9CE /* 21. Merge Two Sorted Lists.playground */,
+				188340CE2ACDE451000FD9CE /* 53. Maximum Subarray.playground */,
+				188340D02ACDE5BD000FD9CE /* 94.Binary Tree InOrder Traversal.playground */,
+				188340D22ACDE5DD000FD9CE /* 101. Symmetric Tree.playground */,
+				188340D42ACDE611000FD9CE /* 104. Maximum_Depth_Of_Binary_Tree.playground */,
+				188340D62ACDE66C000FD9CE /* 111.Minimum_Depth_Of_BinaryTree.playground */,
+				188340D82ACDE686000FD9CE /* 112.Path_Sum_Tree.playground */,
+				188340DA2ACDE6A5000FD9CE /* 125.Valid_Palindrome.playground */,
+				188340DC2ACDE6C0000FD9CE /* 136.Single_Number.playground */,
+				188340DE2ACDE703000FD9CE /* 448.Find_All_Numbers_Disappeared_In_An_Array.playground */,
+				188340E02ACDE742000FD9CE /* 653.Two_Sum_IV_Input_IS_A_BST.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
