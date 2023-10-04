@@ -38,6 +38,7 @@
 		188340DC2ACDE6C0000FD9CE /* 136.Single_Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 136.Single_Number.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		188340DE2ACDE703000FD9CE /* 448.Find_All_Numbers_Disappeared_In_An_Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 448.Find_All_Numbers_Disappeared_In_An_Array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		188340E02ACDE742000FD9CE /* 653.Two_Sum_IV_Input_IS_A_BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 653.Two_Sum_IV_Input_IS_A_BST.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		188340E42ACDEB75000FD9CE /* 2.Add_Two_Numbers_LinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.Add_Two_Numbers_LinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		80187C6027BB7CDE00274301 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80187C6327BB7CDE00274301 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80187C6527BB7CDE00274301 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -92,6 +93,14 @@
 			path = Easy;
 			sourceTree = "<group>";
 		};
+		188340E62ACDEB95000FD9CE /* Medium_Level_Problem */ = {
+			isa = PBXGroup;
+			children = (
+				188340E42ACDEB75000FD9CE /* 2.Add_Two_Numbers_LinkedList.playground */,
+			);
+			path = Medium_Level_Problem;
+			sourceTree = "<group>";
+		};
 		80187C5727BB7CDE00274301 = {
 			isa = PBXGroup;
 			children = (
@@ -111,6 +120,7 @@
 		80187C6227BB7CDE00274301 /* Leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				188340E62ACDEB95000FD9CE /* Medium_Level_Problem */,
 				182241E128BFDC8A00CD0F36 /* String */,
 				80187C6327BB7CDE00274301 /* AppDelegate.swift */,
 				80187C6527BB7CDE00274301 /* SceneDelegate.swift */,
