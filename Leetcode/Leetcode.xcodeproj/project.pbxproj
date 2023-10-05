@@ -44,6 +44,15 @@
 		188340E02ACDE742000FD9CE /* 653.Two_Sum_IV_Input_IS_A_BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 653.Two_Sum_IV_Input_IS_A_BST.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		188340E42ACDEB75000FD9CE /* 2.Add_Two_Numbers_LinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.Add_Two_Numbers_LinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		188340E82ACDECEB000FD9CE /* 3.Longest_Substring_Without_Repeating_Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3.Longest_Substring_Without_Repeating_Characters.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		189623532ACF326D00667D9B /* 17.Letter_Combination_Of_Phone_number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 17.Letter_Combination_Of_Phone_number.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		189623552ACF329D00667D9B /* 39.Combination_Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 39.Combination_Sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		189623572ACF32CA00667D9B /* 40.Combination_Sum_II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 40.Combination_Sum_II.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		189623592ACF32F200667D9B /* 56.Merge_Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 56.Merge_Intervals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1896235B2ACF336800667D9B /* 148.Sort_List_Linked_List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 148.Sort_List_Linked_List.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1896235D2ACF33A700667D9B /* 216.Combination_Sum_III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 216.Combination_Sum_III.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1896235F2ACF33EB00667D9B /* 371.Sum_Two_Integers_Without_+_-.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "371.Sum_Two_Integers_Without_+_-.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		189623612ACF342500667D9B /* 438.Find_All_Anagram_In_String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 438.Find_All_Anagram_In_String.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		189623632ACF34EF00667D9B /* 445.Add_2_Numbers_II_Using_Linked_List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 445.Add_2_Numbers_II_Using_Linked_List.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		80187C6027BB7CDE00274301 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80187C6327BB7CDE00274301 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80187C6527BB7CDE00274301 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +116,15 @@
 				180B16FB2ACDEDEC00DCF160 /* 7. Reverse_Integer.playground */,
 				180B16FD2ACDEE0400DCF160 /* 15.3Sum.playground */,
 				180B16FF2ACDEE2A00DCF160 /* 16.3Sum_Closest.playground */,
+				189623532ACF326D00667D9B /* 17.Letter_Combination_Of_Phone_number.playground */,
+				189623552ACF329D00667D9B /* 39.Combination_Sum.playground */,
+				189623572ACF32CA00667D9B /* 40.Combination_Sum_II.playground */,
+				189623592ACF32F200667D9B /* 56.Merge_Intervals.playground */,
+				1896235B2ACF336800667D9B /* 148.Sort_List_Linked_List.playground */,
+				1896235D2ACF33A700667D9B /* 216.Combination_Sum_III.playground */,
+				1896235F2ACF33EB00667D9B /* 371.Sum_Two_Integers_Without_+_-.playground */,
+				189623612ACF342500667D9B /* 438.Find_All_Anagram_In_String.playground */,
+				189623632ACF34EF00667D9B /* 445.Add_2_Numbers_II_Using_Linked_List.playground */,
 			);
 			path = Medium_Level_Problem;
 			sourceTree = "<group>";
